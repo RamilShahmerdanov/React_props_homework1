@@ -1,0 +1,15 @@
+.footer {
+  background-color: #ca0f16;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 130px;
+  height: 60px;
+  color: white;
+  text-decoration: none;
+  margin-top: 50px;
+}
+.footernav {
+  text-decoration: none;
+  color: white;
+}
