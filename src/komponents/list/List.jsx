@@ -24,8 +24,8 @@ const List = () => {
         image={img2}
         title="audi"
         qiymet="20000"
-        ili="2004"
         mekan="Sumqayit"
+        ili="2004"
         tarix="Bugun"
       />
       <Cart
